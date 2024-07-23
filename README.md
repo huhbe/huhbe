@@ -22,7 +22,6 @@
   <div>
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=postgre&logoColor=white">
   </div>
 
 <p><strong>Framwork</strong></p>
